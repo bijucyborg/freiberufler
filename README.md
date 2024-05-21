@@ -29,5 +29,4 @@ Here are some resources on FREE advice for freelancers.
 | Resource               | URL                                                                                     | Description                                                                                                            |
 |----------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Melisa Liberman       | [Melisa's website](https://www.melisaliberman.com/)                                         | Melisa Liberman is well known coach for independent consultants and has ton's of free resources on her portal with a lot of useful advice                    |
-| Verband der Gründer und
-Selbstständigen Deutschland e.V         | [VGSD website](https://www.vgsd.de/)                                                 | The association for founders and self employed organizes in person events and has a lot of useful blog articles in German    
+| Verband der Gründer und Selbstständigen Deutschland e.V         | [VGSD website](https://www.vgsd.de/)                                                 | The association for founders and self employed organizes in person events and has a lot of useful blog articles in German    
