@@ -24,7 +24,7 @@ Here some ways to find work:-
 | Google Jobs Alerts                 | [Google Jobs Search Link](https://www.google.de/search?q=freiberufler&sca_esv=eeb7227c5a3e2591&gl=DE&udm=8&biw=1440&bih=737&sxsrf=ADLYWIKks4JXluZds4gwhXDHdnfGiopb-w%3A1716308081175&ei=cchMZumpCsKAxc8PwLuD6AE&ved=0ahUKEwippoPskZ-GAxVCQPEDHcDdAB0Q4dUDCBA&uact=5&oq=freiberufler&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGZyZWliZXJ1ZmxlcjIKEAAYgAQYFBiHAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEikElCfA1iBD3ABeACQAQCYAXugAfsKqgEDOC42uAEDyAEA-AEBmAIDoALrAcICBxAjGCcYrgLCAggQABiABBiiBMICBxAjGLACGCeYAwCIBgGSBwMxLjKgB49K&sclient=gws-wiz-serp&jbr=sep:0)                                                          | I have still not understood how to consistently reach this link, however if you click the link -> Change the search term -> Click the follow button -> You will get daily alerts for job matches to your gmail                   |
 | Bosch Legends Lab                 | [Bosch Legends Lab](https://boschlegendslab.com/)                            | Freelance projects inside Bosch - the German conglomerate which also famous for its home appliances                  |
 | C4 Group               | [C4 Group](https://c4-group.zohorecruit.eu/jobs/Careers)                            | C4 Group focusses on providing interim talent for the energy and life sciences industry               |
-
+| Hibernian Recruitment              | [Hibernian Recruitment](https://www.hibernian-recruitment.com/type/freelance/)                            | Specialists in freelance recruitment in Germany              |
 
 # Advice for freelancers
 Here are some resources on FREE advice for freelancers.
