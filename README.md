@@ -26,6 +26,7 @@ Here some ways to find work:-
 | C4 Group               | [C4 Group](https://c4-group.zohorecruit.eu/jobs/Careers)                            | C4 Group focusses on providing interim talent for the energy and life sciences industry               |
 | Hibernian Recruitment              | [Hibernian Recruitment](https://www.hibernian-recruitment.com/type/freelance/)                            | Specialists in freelance recruitment in Germany              |
 | Michael Page Recruitment              | [Michael Page Recruitment](https://www.michaelpage.de/jobs/interim/information-technology)                            | Freelance page for Michael Page Recruitment agency              |
+| Digital Associates Recruitment              | [Digital Associates](https://digitalassociates.de/karriere/current-projects/)                            | Freelance page for Digital Associates Recruitment agency              |
 
 # Advice for freelancers
 Here are some resources on FREE advice for freelancers.
