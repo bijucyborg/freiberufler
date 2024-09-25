@@ -28,7 +28,7 @@ Here some ways to find work:-
 | Michael Page Recruitment              | [Michael Page Recruitment](https://www.michaelpage.de/jobs/interim/information-technology)                            | Freelance page for Michael Page Recruitment agency              |
 | Digital Associates Recruitment              | [Digital Associates](https://digitalassociates.de/karriere/current-projects/)                            | Freelance page for Digital Associates Recruitment agency              |
 | Krongaard Recruitment Project Mart              | [Krongaard Project Mart](https://www.krongaard.de/experts/projektmarkt)                            | Freelance page for Krongaard Recruitment agency              |
-
+| 9AM              | [9AM](https://www.9am.works/freelancer)                            | Aggregator for freelance opportunities in the DACH region            |
 
 # Advice for freelancers
 Here are some resources on FREE advice for freelancers.
