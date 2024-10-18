@@ -29,6 +29,8 @@ Here some ways to find work:-
 | Digital Associates Recruitment              | [Digital Associates](https://digitalassociates.de/karriere/current-projects/)                            | Freelance page for Digital Associates Recruitment agency              |
 | Krongaard Recruitment Project Mart              | [Krongaard Project Mart](https://www.krongaard.de/experts/projektmarkt)                            | Freelance page for Krongaard Recruitment agency              |
 | 9AM              | [9AM](https://www.9am.works/freelancer)                            | Aggregator for freelance opportunities in the DACH region            |
+| Mund Consulting            | [Mund Consulting](https://www.mund-consulting.de/erstklassige-jobs/)                            | Recruiter with freelance focus across Germany            |
+
 
 # Advice for freelancers
 Here are some resources on FREE advice for freelancers.
