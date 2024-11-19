@@ -40,4 +40,12 @@ Here are some resources on FREE advice for freelancers.
 | Melisa Liberman       | [Melisa's website](https://www.melisaliberman.com/)                                         | Melisa Liberman is well known coach for independent consultants and has ton's of free resources on her portal with a lot of useful advice                    |
 | Verband der Gründer und Selbstständigen Deutschland e.V         | [VGSD website](https://www.vgsd.de/)                                                 | The association for founders and self employed organizes in person events and has a lot of useful blog articles in German    |
 | Alex Allan's blog post on Medium      | [Alex Allan's post](https://medium.com/@alexjallan/being-a-freelancer-in-germany-35106de18411)                                                 | Detailed blog post by Alex on Freelancing in Germany |
-| Jonathan Stark   | [Free Resources](https://jonathanstark.com/free)                                                 | Free advice for freelance software developers|    
+| Jonathan Stark   | [Free Resources](https://jonathanstark.com/free)                                                 | Free advice for freelance software developers|   
+
+
+# Working with clients outside Germany within EUROPE
+
+1. You might need a A1 Certificate if your client is outside of Germany. It was struggle for me to find the right way to order this certificate.
+   One needs to access the SV Meldeportal https://app.sv-meldeportal.de/de/login, and click on the link which is at the very bottom of the page.
+   "Für einen Login oder eine Registrierung mit der BundID klicken Sie bitte hier."
+
