@@ -30,6 +30,8 @@ Here some ways to find work:-
 | Krongaard Recruitment Project Mart              | [Krongaard Project Mart](https://www.krongaard.de/experts/projektmarkt)                            | Freelance page for Krongaard Recruitment agency              |
 | 9AM              | [9AM](https://www.9am.works/freelancer)                            | Aggregator for freelance opportunities in the DACH region            |
 | Mund Consulting            | [Mund Consulting](https://www.mund-consulting.de/erstklassige-jobs/)                            | Recruiter with freelance focus across Germany            |
+| Consulting Heads         | [Consulting Heads](https://consultingheads.com/en/for-consultants/)                            | Ideal for consulting engagements as freelancer |
+
 
 
 # Advice for freelancers
