@@ -31,7 +31,7 @@ Here some ways to find work:-
 | 9AM              | [9AM](https://www.9am.works/freelancer)                            | Aggregator for freelance opportunities in the DACH region            |
 | Mund Consulting            | [Mund Consulting](https://www.mund-consulting.de/erstklassige-jobs/)                            | Recruiter with freelance focus across Germany            |
 | Consulting Heads         | [Consulting Heads](https://consultingheads.com/en/for-consultants/)                            | Ideal for consulting engagements as freelancer |
-
+| Etengo         | [Etengo](https://www.etengo.de/it-projektsuche/)                            | Etengo offers freelancing contracts for IT and Digital  - They call it Smart freelancing       |
 
 
 # Advice for freelancers
