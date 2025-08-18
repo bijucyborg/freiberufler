@@ -32,6 +32,7 @@ Here some ways to find work:-
 | Mund Consulting            | [Mund Consulting](https://www.mund-consulting.de/erstklassige-jobs/)                            | Recruiter with freelance focus across Germany            |
 | Consulting Heads         | [Consulting Heads](https://consultingheads.com/en/for-consultants/)                            | Ideal for consulting engagements as freelancer |
 | Etengo         | [Etengo](https://www.etengo.de/it-projektsuche/)                            | Etengo offers freelancing contracts for IT and Digital  - They call it Smart freelancing       |
+| Data Freelancer         | [Data Freelancer](https://thedatafreelancer.com/)                            | If you are a freelancer looking for data related roles, this website is a good aggregator      |
 
 
 # Advice for freelancers
