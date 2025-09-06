@@ -35,6 +35,16 @@ Here some ways to find work:-
 | Data Freelancer         | [Data Freelancer](https://thedatafreelancer.com/)                            | If you are a freelancer looking for data related roles, this website is a good aggregator      |
 | Solcom         | [Solcom](https://solcom.de/)                            | Solcom is one of the largest freelance recruiters for engineering jobs and now has their own portal    |
 
+# Top Agencies in Germany hiring Freelancers
+
+<img width="517" height="459" alt="image" src="https://github.com/user-attachments/assets/2b67067f-f665-439e-973a-39316f56515e" />
+
+Based on the graphic, here is a summary from a freelancer's perspective:
+
+The [2024 Lünendonk list](https://www.luenendonk.de/produkt/luenendonk-liste-2024-fuehrende-anbieter-fuer-rekrutierung-einsatz-und-steuerung-von-freelancern-in-deutschland/) ranks Hays AG as the top provider for recruiting and managing freelancers in Germany, with the highest revenue from these services in 2023 at 1,789.9 million Euros. Following Hays AG, Randstad Professional GmbH and SThree GmbH secure the second and third ranks, respectively.
+
+While Ferchau GmbH is ranked fifth, it has the highest number of employees in Germany among all the listed companies at 2,150, which might indicate a wide network for freelance opportunities. The list provides an overview of the top players in the market based on their financial performance and scale, which can be a valuable resource for freelancers looking to partner with these firms.
+
 
 # Advice for freelancers
 Here are some resources on FREE advice for freelancers.
