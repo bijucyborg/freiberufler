@@ -33,6 +33,7 @@ Here some ways to find work:-
 | Consulting Heads         | [Consulting Heads](https://consultingheads.com/en/for-consultants/)                            | Ideal for consulting engagements as freelancer |
 | Etengo         | [Etengo](https://www.etengo.de/it-projektsuche/)                            | Etengo offers freelancing contracts for IT and Digital  - They call it Smart freelancing       |
 | Data Freelancer         | [Data Freelancer](https://thedatafreelancer.com/)                            | If you are a freelancer looking for data related roles, this website is a good aggregator      |
+| Solcom         | [Solcom](https://solcom.de/)                            | Solcom is one of the largest freelance recruiters for engineering jobs and now has their own portal    |
 
 
 # Advice for freelancers
