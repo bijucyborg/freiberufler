@@ -35,6 +35,7 @@ Here some ways to find work:-
 | Data Freelancer         | [Data Freelancer](https://thedatafreelancer.com/)                            | If you are a freelancer looking for data related roles, this website is a good aggregator      |
 | Solcom         | [Solcom](https://solcom.de/)                            | Solcom is one of the largest freelance recruiters for engineering jobs and now has their own portal    |
 | Constaff         | [Constaff](https://www.constaff.com/projektportal/)                            | Constaff is a recruiter with many freelance positions listed on its project portal   |
+| HIBA         | [HIBA](https://www.hiba.de/de/fuer-freelancer/job-und-projektportal/)                          | HIBA connects IT & Engineering talent with Enterprises   |
 
 
 # Top Agencies in Germany hiring Freelancers
