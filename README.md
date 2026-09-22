@@ -65,4 +65,8 @@ Here are some resources on FREE advice for freelancers.
 1. You might need a A1 Certificate if your client is outside of Germany. It was struggle for me to find the right way to order this certificate.
    One needs to access the SV Meldeportal https://app.sv-meldeportal.de/de/login, and click on the link which is at the very bottom of the page.
    "Für einen Login oder eine Registrierung mit der BundID klicken Sie bitte hier."
+   
+2. When invoicing clients outside of Germany, you DO NOT charge VAT and instead add this line to your invoice.
+**Deutsch**: Der Rechnungsausweis erfolgt ohne Umsatzsteuer, da vorliegend der Wechselder Steuerschuldnerschaft (Reverse-Charge-Verfahren) greift. Die Umsatzsteuer ist vom Leistungsempfänger anzumelden und abzuführen. (Kurz: Steuerschuldnerschaft des Leistungsempfängers.)
+**English**: Supply of services/goods subject to reverse charge. VAT to be paid by the recipient.
 
